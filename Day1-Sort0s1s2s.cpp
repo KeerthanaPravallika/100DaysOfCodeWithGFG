@@ -17,7 +17,7 @@ Explanation:
 
 */
 
-void sort012(int a[], int n)
+    void sort012(int a[], int n)
     {
         // coode here 
         int l=0,m=0,h=n-1;
