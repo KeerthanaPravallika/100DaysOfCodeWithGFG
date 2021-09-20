@@ -5,3 +5,4 @@ Day 2 : https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-15871
 Day 3 : https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1<br/>
 Day 4 : https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1<br />
 Day 5 : https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1<br />
+Day 6 : https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1<br />
